@@ -9,19 +9,19 @@
 
 ### 🔷 Overview Dashboard — KPI Summary
 
-![Overview Dashboard](Overview Dashboard (1).png)
+![Overview Dashboard](Overview Dashboard .png)
 
 ---
 
 ### 🧶 Textile Manufacturing (TMS) — Garments Manufacturing (GMS)
 
-![Garments Manufacturing](Garments Manufacturing (GMS) (1).png)
+![Garments Manufacturing](Garments Manufacturing .png)
 
 ---
 
 ### ✂️ Textile Manufacturing — Production Detail
 
-![Textile Manufacturing](Textile Manufacturing (TMS) (2).png)
+![Textile Manufacturing](Textile Manufacturing .png)
 
 ---
 
@@ -40,7 +40,7 @@ This dashboard covers the full **RMG (Ready-Made Garments) production pipeline**
 ### Page 1 — 📊 Overview Dashboard
 A high-level KPI summary of the entire operation — the "single glance" view for executives and managers.
 
-![Overview Dashboard](Overview Dashboard (1).png)
+![Overview Dashboard](Overview Dashboard .png)
 
 | KPI | Value |
 |---|:---:|
@@ -69,7 +69,7 @@ A high-level KPI summary of the entire operation — the "single glance" view fo
 ### Page 2 — 🧶 Garments Manufacturing (GMS)
 Factory-level breakdown of cutting, production, shipments, rejection, and knitting output over time.
 
-![Garments Manufacturing](Garments Manufacturing (GMS) (1).png)
+![Garments Manufacturing](Garments Manufacturing .png)
 
 **Visuals Included:**
 - 📊 Total Ordered Cut by BuyerName — 8 buyers including Metro, Sunrise, Urban, EveryD, CitySt, Global, Pacific, North
@@ -95,7 +95,7 @@ Factory-level breakdown of cutting, production, shipments, rejection, and knitti
 ### Page 3 — ✂️ Textile Manufacturing (TMS)
 Sewing line efficiency, production output, and shipment performance tracking.
 
-![Textile Manufacturing](Textile Manufacturing (TMS) (2).png)
+![Textile Manufacturing](Textile Manufacturing .png)
 
 **Visuals Included:**
 - 📈 Total Cut Qty by Date (Jan 2022 – Nov 2025)
