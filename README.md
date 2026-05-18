@@ -15,7 +15,7 @@
 
 ### 🧶 Textile Manufacturing (TMS) — Garments Manufacturing (GMS)
 
-![Garments Manufacturing](Garments_Manufacturing__GMS_.png)
+![Garments Manufacturing](Garments Manufacturing (GMS) (1).png)
 
 ---
 
